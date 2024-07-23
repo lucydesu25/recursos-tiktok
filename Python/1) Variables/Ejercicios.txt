@@ -1,0 +1,17 @@
+1) Escribe un programa que muestre por pantalla la cadena, “Hola mundo”:
+
+2) Escribir un programa que almacena el valor “Hola mundo” en una variable e imprimir ese valor.
+
+3) Crear un programa que pida un nombre de usuario a una persona y tras eso, que muestre por pantalla “¡Hola, <nombre>”
+
+4) Escribir un programa que sume dos números ingresados por el usuario y muestre el resultado en pantalla.
+
+5) Crea una variable de cualquier tipo (string, int, float, boolean) y utiliza la función type para saber qué tipo de variable es. Muestra dicho tipo de variable por pantalla.
+
+6) Crea un programa que pregunte la edad del usuario y su nombre. Luego haz que muestre el siguiente mensaje: “<nombre> tienes <años> años>”.
+
+7) Declara un booleano en true y cambia su valor a false. Imprime dicho cambio.
+
+8) Declara una variable float cuyo valor sea 7.0 y luego imprima el tipo de dicha variable.
+
+9) Pida un nombre al usuario y luego asigna a esa variable el nombre “Juan”. Imprime el resultado.
